@@ -51,7 +51,7 @@ namespace EpamCheckPoint2FileProcessing
 
             foreach (string k in keys)
             {
-                Console.WriteLine(k + "...." + (MyDictionary[k] as Words).CountWord + ":" + (string.Join(" ", (MyDictionary[k] as Words).LineWord.Distinct().OrderBy(q => q))));
+                Console.WriteLine(k + "...." + (MyDictionary[k] as Words).CountWord + ":" + (MyDictionary[k] as Words).LineWord);
             }
         }
     }

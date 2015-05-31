@@ -8,9 +8,3 @@ C:\Users\oag\Documents\GitHub\CheckPoint2\EpamCheckPoint2FileProcessing\EpamChec
 C:\Users\oag\Documents\GitHub\CheckPoint2\EpamCheckPoint2FileProcessing\EpamCheckPoint2FileProcessing\obj\Debug\EpamCheckPoint2FileProcessing.pdb
 C:\Users\oag\Documents\GitHub\CheckPoint2\EpamCheckPoint2FileProcessing\EpamCheckPoint2FileProcessing\bin\Debug\EpamCheckPoint2FileProcessing.exe
 C:\Users\oag\Documents\GitHub\CheckPoint2\EpamCheckPoint2FileProcessing\EpamCheckPoint2FileProcessing\bin\Debug\EpamCheckPoint2FileProcessing.pdb
-C:\Users\oag\Desktop\CheckPoint2\EpamCheckPoint2FileProcessing\EpamCheckPoint2FileProcessing\bin\Debug\EpamCheckPoint2FileProcessing.exe.config
-C:\Users\oag\Desktop\CheckPoint2\EpamCheckPoint2FileProcessing\EpamCheckPoint2FileProcessing\obj\Debug\EpamCheckPoint2FileProcessing.exe
-C:\Users\oag\Desktop\CheckPoint2\EpamCheckPoint2FileProcessing\EpamCheckPoint2FileProcessing\obj\Debug\EpamCheckPoint2FileProcessing.pdb
-C:\Users\oag\Desktop\CheckPoint2\EpamCheckPoint2FileProcessing\EpamCheckPoint2FileProcessing\bin\Debug\EpamCheckPoint2FileProcessing.exe
-C:\Users\oag\Desktop\CheckPoint2\EpamCheckPoint2FileProcessing\EpamCheckPoint2FileProcessing\bin\Debug\EpamCheckPoint2FileProcessing.pdb
-C:\Users\oag\Desktop\CheckPoint2\EpamCheckPoint2FileProcessing\EpamCheckPoint2FileProcessing\obj\Debug\EpamCheckPoint2FileProcessing.csprojResolveAssemblyReference.cache
